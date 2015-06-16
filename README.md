@@ -13,5 +13,5 @@ Other repositories do contain actual code examples:
 | [Java](https://github.com/Arthika/Price-Streaming-Java)  |   |
 | [C#](https://github.com/Arthika/Price-Streaming-C-)  |   |
 
-### Before 
+### Going further: 
 While you are welcome to browse the code and documehtation that we provide in Arthika's public repositories, you will only be able to execute the code examples. Please [contact Arthika](http://www.arthikatrading.com/contact/) if you would like to register and open a test account. 
