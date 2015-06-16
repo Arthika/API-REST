@@ -6,7 +6,7 @@ This repository contains only this Readme file, not actual code.
 Other repositories do contain actual code examples:
 
 | Price streaming  | Price polling | Order management | Order status | Position and accounting |
-| ------------- | ------------- |
+| ------------- | ------------- |-------------| ------------- | ------------- |
 | [CURL](https://github.com/Arthika/Price-Streaming-Curl)  | Coming soon  | | | |
 | [HTML](https://github.com/Arthika/Price-Streaming-html)  |   | | | |
 | [PHP](https://github.com/Arthika/Price-Streaming-Php)  |   | | | |
