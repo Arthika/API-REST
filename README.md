@@ -1,6 +1,6 @@
 ## API-REST
 Welcome to Arthika's REST API repository.
-You will find in the associated Wiki [Wiki](https://github.com/Arthika/Price-Streaming-Curl)
+You will find in the associated [Wiki](https://github.com/Arthika/API-REST/wiki)
  the API REST documentation.
 This repository contains only this Readme file, not actual code.
 Other repositories do contain actual examples that you can download.
