@@ -1,0 +1,33 @@
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.0/jquery.min.js"></script>
+<script type="text/javascript">
+getPrice = function()
+{
+    $.ajax({
+        type: "POST",
+        url: "https://api.arthikatrading.com/stream/getPrice",
+        data: JSON.stringify( { getPrice: {
+                                  user: "login_name", 
+                                  password: "2c70e12b7a0646f92279f427c7b38e7334d8e5389cff167a1dc30e73f826b683",
+                                  customer: "1",
+                                  security: ["EUR_USD","GBP_USD"],
+                                  interface: ["TI1","TI2"],
+                                  granularity: "FBA",
+                                  levels:2 } } ),
+        contentType: "application/json",
+        dataType: "json",
+        traditional: true,
+        success: function (result) {
+            switch (result) {
+                case true:
+                    break;
+                default:
+                    break;
+            }
+        },
+        error: function (xhr, ajaxOptions, thrownError) {
+            alert(xhr.status);
+            alert(thrownError);
+        }
+    });
+};
+</script>
