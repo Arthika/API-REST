@@ -2,16 +2,19 @@
 Welcome to Arthika's REST API repository.
 You will find in the associated [Wiki](https://github.com/Arthika/API-REST/wiki)
  the API REST documentation.
-This repository contains only this Readme file, not actual code.
-The repositories below do contain actual code examples:
+This repository contains a collection of examples using pospular languages 
 
-| Price streaming  | Price polling | Order management | Order status | Position and accounting |
-| ------------- | ------------- |-------------| ------------- | ------------- |
-| [CURL](https://github.com/Arthika/Price-Streaming-Curl)  |   | | | |
-| [HTML](https://github.com/Arthika/Price-Streaming-html)  |   | | | |
-| [PHP](https://github.com/Arthika/Price-Streaming-Php)  |   | | | |
-| [Java](https://github.com/Arthika/Price-Streaming-Java)  |   | | | |
-| [C#](https://github.com/Arthika/Price-Streaming-C-)  |   | | | |
+* Price streaming
+  * PriceStreaming.sh: This file contains several curl command examples
+  * PriceStreaming.html:
+  * ProceStreaming.php
+  * PriceSreaming.java
+  * PrceStreaming.cs
+* Price polling
+* Order management
+* Order status
+* Position and accounting
+
 
 ### Going further: 
 While you are welcome to browse the code and documehtation that we provide in Arthika's public repositories, you will only be able to execute the code examples. Please [contact Arthika](http://www.arthikatrading.com/contact/) if you would like to register and open a test account. 
