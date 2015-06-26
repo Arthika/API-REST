@@ -2,14 +2,14 @@
 Welcome to Arthika's REST API repository.
 You will find in the associated [Wiki](https://github.com/Arthika/API-REST/wiki)
  the API REST documentation.
-This repository contains a collection of examples using pospular languages 
+This repository contains a collection of examples using popular languages 
 
 * Price streaming
   *  [PriceStreaming.sh](https://github.com/Arthika/API-REST/blob/master/PriceStreaming.sh): This file contains several curl command examples
   * PriceStreaming.html: Price Streaming from html
   * ProceStreaming.php: Price Streaming from php
   * PriceSreaming.java: Price Streaming from java
-  * PrceStreaming.cs: Price Streaming from C#
+  * PriceStreaming.cs: Price Streaming from C#
 * Price polling
 * Order management
 * Order status
