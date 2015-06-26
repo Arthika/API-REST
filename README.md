@@ -5,11 +5,11 @@ You will find in the associated [Wiki](https://github.com/Arthika/API-REST/wiki)
 This repository contains a collection of examples using pospular languages 
 
 * Price streaming
-  * PriceStreaming.sh: This file contains several curl command examples
-  * PriceStreaming.html:
-  * ProceStreaming.php
-  * PriceSreaming.java
-  * PrceStreaming.cs
+  *  [PriceStreaming.sh](https://github.com/Arthika/API-REST/blob/master/PriceStreaming.sh): This file contains several curl command examples
+  * PriceStreaming.html: Price Streaming from html
+  * ProceStreaming.php: Price Streaming from php
+  * PriceSreaming.java: Price Streaming from java
+  * PrceStreaming.cs: Price Streaming from C#
 * Price polling
 * Order management
 * Order status
