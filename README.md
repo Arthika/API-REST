@@ -15,6 +15,7 @@ This repository contains a collection of examples using popular languages
 * Order status
 * Position and accounting
 
+## How to:
 
-### Going further: 
+## Going further: 
 While you are welcome to browse the code and documehtation that we provide in Arthika's public repositories, you will only be able to execute the code examples. Please [contact Arthika](http://www.arthikatrading.com/contact/) if you would like to register and open a test account. 
