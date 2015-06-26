@@ -6,10 +6,10 @@ This repository contains a collection of examples using popular languages
 
 * Price streaming
   *  [PriceStreaming.sh](https://github.com/Arthika/API-REST/blob/master/PriceStreaming.sh): This file contains several curl command examples
-  * PriceStreaming.html: Price Streaming from html
-  * ProceStreaming.php: Price Streaming from php
-  * PriceSreaming.java: Price Streaming from java
-  * PriceStreaming.cs: Price Streaming from C#
+  * [PriceStreaming.html](https://github.com/Arthika/API-REST/blob/master/PriceStreaming.html): Price Streaming from html
+  * [ProceStreaming.php](https://github.com/Arthika/API-REST/blob/master/PriceStreaming.php): Price Streaming from php
+  * [PriceSreaming.java](https://github.com/Arthika/API-REST/blob/master/PriceStreaming.java): Price Streaming from java
+  * [PriceStreaming.cs](https://github.com/Arthika/API-REST/blob/master/PriceStreaming.cs): Price Streaming from C#
 * Price polling
 * Order management
 * Order status
