@@ -15,8 +15,8 @@ This repository contains a collection of examples using popular languages
 * Order status
 * Position and accounting
 
-## How to: MacOs
-### Using curl from a termianl window (.sh files)
+## How to: MacOs  
+### Using curl from a terminal window (.sh files)
 The .sh files that we provide contain curl commands that you can copy-paste into a terminal window. Curl will normally be included in your MacOs.
 
 ## Going further: 
