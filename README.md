@@ -3,7 +3,7 @@ Welcome to Arthika's REST API repository which contains a collection of trading 
 
 * Price streaming using:
    * [PHP](https://github.com/Arthika/API-REST/blob/master/PHP/priceStreaming.php)  
-   * [Java](https://github.com/Arthika/API-REST/blob/master/Java/priceStreaming/appClientModule/Main.java)
+   * [Java](https://github.com/Arthika/API-REST/blob/master/Java/priceStreaming/appClientModule/Main.java) (Link to main Java code file); also provided: [Entire project] (https://github.com/Arthika/API-REST/tree/master/Java/priceStreaming)
    * [C#] (https://github.com/Arthika/API-REST/blob/master/C%23/priceStreaming/Program.cs)
 
 **Coming soon:**
