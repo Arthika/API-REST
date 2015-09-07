@@ -1,17 +1,12 @@
 ## API REST examples:
-Welcome to Arthika's REST API repository which contains a collection of trading sub-tasks examples using popular languages, all based on Arthika's REST API.
+Welcome to Arthika's REST API. This repository does not include actual code, its purpose is to serve as an entry hub from which users are redirected to the [Wiki](https://github.com/Arthika/API-REST/wiki) the API REST documentation and to the actual code respositories listed below:
 
-* Price streaming using:
-   * [PHP](https://github.com/Arthika/API-REST/blob/master/PHP/priceStreaming.php)  
-   * [Java](https://github.com/Arthika/API-REST/blob/master/Java/priceStreaming/appClientModule/Main.java) (Link to main Java code file); also provided: [Entire project] (https://github.com/Arthika/API-REST/tree/master/Java/priceStreaming)
-   * [C#] (https://github.com/Arthika/API-REST/blob/master/C%23/priceStreaming/Program.cs)
 
-**Coming soon:**
+* [Wiki](https://github.com/Arthika/API-REST/wiki) the API REST documentation.
 
-* Price polling
-* Order management
-* Order status
-* Position and accounting
+which contains a collection of trading sub-tasks examples using popular languages, all based on Arthika's REST API.
+
+
 
 ## API-REST reference:
 
