@@ -9,10 +9,8 @@ which contains a collection of trading sub-tasks examples using popular language
 
 ### Java
 
-[Entry-level Examples](https://github.com/Arthika/REST-API-Java-Examples)
-
-[Application Examples](https://github.com/Arthika/REST-API-Java-Applications)
-
+* [Entry-level Examples](https://github.com/Arthika/REST-API-Java-Examples): This repository contains entry-level examples written in Java that illustrate the use of single commands. There are separate Java programs for each 
+* [Application Examples](https://github.com/Arthika/REST-API-Java-Applications): This repository contains more complex Java examples
 
 
 ## Going further:
