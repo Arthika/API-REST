@@ -3,10 +3,10 @@ Welcome to Arthika's REST API. This repository does not include actual code, its
 
 ### API REST Code repositories:
 
-#### Java
+##### Java
 
-* [Entry-level Examples](https://github.com/Arthika/REST-API-Java-Examples): This repository contains entry-level examples written in Java that illustrate the use of single commands. There are separate Java programs for each 
-* [Application Examples](https://github.com/Arthika/REST-API-Java-Applications): This repository contains more complex Java examples
+* [REST-API-Java-Examples](https://github.com/Arthika/REST-API-Java-Examples): This repository contains entry-level examples written in Java that illustrate the use of single commands. There are separate Java programs for each 
+* [REST-API-Java-Applications](https://github.com/Arthika/REST-API-Java-Applications): This repository contains more complex Java examples
 
 ### Javascript
 ¿Price streaming only?
