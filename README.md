@@ -10,8 +10,7 @@ Welcome to Arthika's REST API. This repository does not include actual code, its
 
 ### Javascript
 ¿Price streaming only?
-#### ``C#``
-¿Nothing done yet?
+
 #### PHP
 ¿Price streaming only?
 
