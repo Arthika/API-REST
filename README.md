@@ -10,7 +10,7 @@ Welcome to Arthika's REST API. This repository does not include actual code, its
 
 #### Android
 
-* [REST-API-Android](https://github.com/Arthika/REST-API-Android): An example of mobile application for Android. (Under development)
+* [REST-API-Android](https://github.com/Arthika/REST-API-Android): An example of mobile application for Android. *Under development*
 
 #### Javascript
 * [REST-API-Javascript-Examples](https://github.com/Arthika/REST-API-Javascript-Examples): Contains a Javascript application that sets up price streaming and displays price graph in your web browser.
