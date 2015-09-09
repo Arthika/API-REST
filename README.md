@@ -13,10 +13,10 @@ Welcome to Arthika's REST API. This repository does not include actual code, its
 * [REST-API-Android](https://github.com/Arthika/REST-API-Android): An example of mobile application for Android.
 
 #### Javascript
-* [REST-API-Javascript-Examples](https://github.com/Arthika/REST-API-Javascript-Examples): Contains a Javascript example that setups price streaming and displays price graph in your web browser.
+* [REST-API-Javascript-Examples](https://github.com/Arthika/REST-API-Javascript-Examples): Contains a Javascript application that sets up price streaming and displays price graph in your web browser.
 
 #### PHP
-* [REST-API-PHP-Examples](https://github.com/Arthika/REST-API-PHP-Examples): PHP examples
+* [REST-API-PHP-Examples](https://github.com/Arthika/REST-API-PHP-Examples): Contains a PHP application that you can run from your console and sets up price streaming.
 
 ### Going further:
-While you are welcome to browse the code and documehtation that we provide in Arthika's public repositories, you will only be able to execute the code examples. Please [contact Arthika](http://www.arthikatrading.com/contact/) if you would like to register and open a test account.
+While you are welcome to download and browse the code and documehtation that we provide in Arthika's public repositories, you will need a trading demo account. Please [contact Arthika](http://www.arthikatrading.com/contact/) if you would like to register and open a demo account.
