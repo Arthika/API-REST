@@ -1,1 +1,0 @@
-Arthika Trading Solutions
