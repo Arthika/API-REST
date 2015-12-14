@@ -8,6 +8,11 @@ Welcome to Arthika's REST API. This repository does not include actual code, its
 * [REST-API-Java-Examples](https://github.com/Arthika/REST-API-Java-Examples): This repository contains entry-level examples written in Java that illustrate the use of single commands such as setting up Streaming or Polling of Prices. 
 * [REST-API-Java-Applications](https://github.com/Arthika/REST-API-Java-Applications): This repository contains complete trading applications written in Java.
 
+#### C#
+
+* [REST-API-C#-Examples](https://github.com/Arthika/REST-API-CSharp-Examples): This repository contains entry-level examples written in C# that illustrate the use of single commands such as setting up Streaming or Polling of Prices. 
+* [REST-API-C#-Applications](https://github.com/Arthika/REST-API-CSharp-Applications): This repository contains complete trading applications written in C#.
+
 #### Android
 
 * [REST-API-Android](https://github.com/Arthika/REST-API-Android): An example of mobile application for Android. *Under development*
