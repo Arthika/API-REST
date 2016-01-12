@@ -1,5 +1,5 @@
 ### API REST API Overview
-Welcome to Arthika's REST API. This repository does not include actual code, its purpose is to serve as an entry hub from which users are redirected to the [REST API Documentation](https://github.com/Arthika/API-REST/wiki) and to the actual code repositories listed below:
+Welcome to Arthika's REST API. This repository is an entry hub from which users the [REST API Documentation](https://github.com/Arthika/API-REST/wiki) in the associated wiki and the code repositories listed below:
 
 ### API REST Code repositories:
 
