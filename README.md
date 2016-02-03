@@ -7,7 +7,7 @@ Welcome to Arthika's REST API Reference. This repository is an entry hub from wh
 [3. Pricing](https://github.com/Arthika/API-REST/wiki/3.-Pricing)    
 [4. Order status](https://github.com/Arthika/API-REST/wiki/4.-Orders)    
 [5. Trading](https://github.com/Arthika/API-REST/wiki/5.-Trading)    
-[6. Position and accounting](https://github.com/Arthika/API-REST/wiki/6.-Position-and-Accounting)
+[6. Position and accounting](https://github.com/Arthika/API-REST/wiki/6.-Position-and-Accounting)   
 [7. Code examples and wrappers](https://github.com/Arthika/API-REST/wiki/6.-Position-and-Accounting)
 
 
