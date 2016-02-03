@@ -8,8 +8,11 @@ Welcome to Arthika's REST API Reference. This repository is an entry hub from wh
 [4. Order status](https://github.com/Arthika/API-REST/wiki/4.-Orders)    
 [5. Trading](https://github.com/Arthika/API-REST/wiki/5.-Trading)    
 [6. Position and accounting](https://github.com/Arthika/API-REST/wiki/6.-Position-and-Accounting)
-### API REST Code repositories:
+[7. Code examples and wrappers](https://github.com/Arthika/API-REST/wiki/6.-Position-and-Accounting)
 
+
+### API REST Code examples and wrappers:
+Code repositories:
 #### Java
 
 * [REST-API-Java-Examples](https://github.com/Arthika/REST-API-Java-Examples): This repository contains entry-level examples written in Java that illustrate the use of single commands such as setting up Streaming or Polling of Prices. 
